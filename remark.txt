@@ -1,0 +1,12 @@
+
+Open weather website: 
+https://home.openweathermap.org/api_keys
+
+
+API key: 
+0293a0ff1be19bca24ad7c40b6cf1d4e
+
+
+
+API Url: 
+
